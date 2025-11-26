@@ -85,9 +85,8 @@ The dashboard is built to:
 ---
 
 ## 📄 Screenshot Placeholder
-> *(Add your dashboard screenshots here once available)*  
-```md
-![Dashboard Preview](images/dashboard.png)
+
+![Dashboard Preview](https://github.com/danvi701/Sales-Performance-and-Dashboard-Analysis/blob/main/Dashboard.PNG)
 
 
 
