@@ -1,33 +1,93 @@
 # Sales-Performance-and-Dashboard-Analysis
-This project provides a complete **Sales Analytics Dashboard** built using Microsoft Excel.  
-It includes raw sales data, pivot-table analysis, and multiple chart-based visualizations to provide meaningful business insights.
+# 📊 Sales Performance Pattern Analysis Dashboard (Excel)
 
-## 📁 Project Contents
-- **Data** – Raw dataset containing product sales across different geographies and sales representatives.
-- **Pivot Tables** – Used for aggregating sales by product, geography, and salesperson.
-- **Charts & Visualizations**
-  - Bar Charts (Sales by Region / Product)
-  - Line Charts (Revenue Trends)
-  - Pie Charts (Market Share)
-  - Fully designed Excel Dashboard
+![Status](https://img.shields.io/badge/Project-Active-brightgreen)
+![Excel](https://img.shields.io/badge/Tools-Microsoft%20Excel-blue)
+![Data](https://img.shields.io/badge/Data-Sales%20Analytics-orange)
 
-## 📈 Key Insights From the Dataset
-- Identifies top-performing salespersons.
-- Shows the highest-selling and lowest-selling products.
-- Highlights sales distribution across **USA, Canada, India, UK, Australia, New Zealand**.
-- Displays revenue and unit sales trends using interactive Excel visuals.
+---
 
-## 🛠 Tools & Techniques
-- Excel Pivot Tables
-- Pivot Charts
-- Slicers for interactive filtering
-- Data Cleaning & Structuring
-- Dashboard Design
+## 📘 Project Overview
+This repository contains an **Excel-based Sales Performance Dashboard** designed to analyze year-over-year sales patterns, KPIs, and business performance metrics.  
+The dashboard uses **pivot tables, charts, and dynamic visualizations** to help identify trends and support data-driven decision-making.
 
-## 🎯 Purpose of the Project
-This Excel-based analytics project demonstrates:
-- Business intelligence concepts using Excel  
-- Data visualization techniques  
-- Real-world-style sales reporting  
+---
+
+## 📁 File Structure
+
+| Sheet Name | Description |
+|-----------|-------------|
+| **DASHBOARD** | Main interactive sales dashboard with all visuals. |
+| **Data** | Primary raw sales dataset used for analysis. |
+| **Other Data** | Supplementary dataset containing additional info. |
+| **PIVOT SALES** | Pivot tables summarizing sales performance metrics. |
+| **GRAND TOTAL** | Year-wise aggregated totals (Revenue & Units). |
+| **SALES (GEO)** | Geographic distribution of sales. |
+| **BAR CHART** | Bar chart visualizations. |
+| **PIE CHART** | Pie chart visualization. |
+| **DONUT CHART** | Donut chart visualization. |
+| **KPI** | Key Performance Indicators section. |
+
+---
+
+## 📈 Key Insights
+
+### **📌 Sales Summary (From GRAND TOTAL Sheet)**
+
+| Year | Boxes Sold | Total Amount |
+|------|------------|--------------|
+| **2021** | **1,094,539** | **18,631,494** |
+| **2022** | **250,035** | **3,070,228** |
+| **Grand Total** | **1,344,574** | **21,701,722** |
+
+### 🔍 Observations
+- **2021 contributed over 80% of total revenue**, marking it as the strongest year.
+- Sales in **2022 dropped significantly** in both revenue and units.
+- Indicates potential impacts from:
+  - Market demand shifts  
+  - Distribution or supply chain issues  
+  - Seasonal fluctuations  
+  - Strategic changes  
+
+---
+
+## 🎯 Purpose of the Dashboard
+The dashboard is built to:
+
+- Visualize sales trends over multiple years  
+- Analyze geographic sales distributions  
+- Provide actionable KPIs  
+- Discover performance patterns  
+- Support business strategy through data visualization  
+
+---
+
+## 🛠 Tools & Techniques Used
+- **Microsoft Excel**
+- Pivot Tables  
+- Excel Formulas  
+- Dynamic Charts (Bar, Pie, Donut)  
+- Dashboard Design  
+- Data Cleaning & Structuring  
+
+---
+
+## 🚀 How to Use
+1. Download the Excel file from the repository.
+2. Open the workbook in Microsoft Excel.
+3. Go to the **DASHBOARD** sheet to view the full analytics summary.
+4. Explore supporting sheets for deeper insights:
+   - Pivot tables  
+   - KPI breakdown  
+   - Geographic sales  
+   - Additional datasets  
+
+---
+
+## 📄 Screenshot Placeholder
+> *(Add your dashboard screenshots here once available)*  
+```md
+![Dashboard Preview](images/dashboard.png)
+
 
 
